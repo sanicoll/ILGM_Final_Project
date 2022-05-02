@@ -21,5 +21,6 @@ For the distributed VAE:
 
 
 ## Notes:
-Klingler et al. (https://files.eric.ed.gov/fulltext/ED596590.pdf) provides the description of architecture for the convolutional VAE and motivates the use of VAEs in education
+Klingler et al. (https://files.eric.ed.gov/fulltext/ED596590.pdf) provides the description of architecture for the convolutional VAE (not code) and motivates the use of VAEs in education
+All code is original
 
